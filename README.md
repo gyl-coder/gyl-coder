@@ -9,12 +9,8 @@
 Currently I am a [@Phoenix](https://github.com/PhoenixIQ) core team member:
 
 <a href="http://developer.phoenix.iquantex.com/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhoenixIQ&repo=phoenix-website&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhoenixIQ&show_owner=true" />
 </a>
-<a href="https://github.com/PhoenixIQ">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhoenixIQ&repo=phoenix-website&show_owner=true" />
-</a>
-
 
 <br>
 
